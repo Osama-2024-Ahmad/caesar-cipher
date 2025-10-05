@@ -31,16 +31,21 @@ It handles lowercase letters and preserves spaces, punctuation, and symbols.
 
 ---
 
-## 🚀 How to Use
+## 📦 Requirements
 
-### 1. Prerequisites
+- Python 3.12
 
-- Python 3.x installed
-- Basic understanding of command-line input
+## 🚀 How to Run
 
-### 2. Setup
-
-- Save two files in the same folder:
-
-  - `caesar_cipher.py` → Main script
-  - `art.py` → Contains the ASCII art logo
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/Osama-2024-Ahmad/caesar-cipher.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd caesar_cipher
+   ```
+3. Run the script:
+   ```bash
+   python caesar_cipher.py
+   ```
